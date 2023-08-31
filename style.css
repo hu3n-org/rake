@@ -469,6 +469,7 @@ header nav h3{
 
 .rr{
       /* height: 300px; */
+     position: relativ;
 
 
        grid-column-start: 1;
